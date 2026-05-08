@@ -36,7 +36,39 @@ const LYRICS = {
 像诗里纷飞的美丽章节
 我接着写
 把永远爱你写进诗的结尾
-你是我唯一想要的了解` },
+你是我唯一想要的了解`, enLyrics: `Sparrows outside the window
+Chatter on the telephone wires
+You said that one line
+Felt so much like summer
+The pencil in my hand
+Moves back and forth across the page
+I use a few lines to describe who you are to me
+The taste of saury
+Both you and the cat want to understand
+The scent of first love is found by us again, just like that
+That warm sunlight
+Like strawberries freshly picked and bright
+You say you cannot bear to eat up this feeling
+The rain falls all night
+My love overflows like rainwater
+Fallen leaves in the courtyard
+Pile thick as my longing
+A few words of gossip
+Still cannot cool down my passion
+You appear on every page of my poems
+The full heads of rice
+Make this season feel blessed
+And your cheeks are like tomatoes ripening in the field
+Suddenly, you say to me
+The name Common Jasmine Orange is beautiful
+But in this moment, I only want to kiss your stubborn lips
+The rain falls all night
+My love overflows like rainwater
+Butterflies by the windowsill
+Like beautiful chapters fluttering through a poem
+I keep writing
+Writing my forever love for you into the poem’s ending
+You are the only understanding I long for` },
       { title: "烟花易冷", en: "Fade Away", lyrics: `繁华声遁入空门
 折煞了世人
 梦偏冷
@@ -68,7 +100,38 @@ const LYRICS = {
 你仍守着孤城
 城郊牧笛声
 落在那座野村
-缘分落地生根是我们` },
+缘分落地生根是我们`, enLyrics: `The clamor of splendor slips into the temple gate
+Leaving the world undone
+The dream is colder than it should be
+A lifetime spent tossing and turning
+How many debts of love remain?
+If your silence is consent
+I will wait through life and death
+Waiting through ring after ring of years
+The pagoda
+Has broken level by level
+Whose soul was severed with it?
+Pain runs straight toward
+A single dying lamp
+And the collapsing mountain gate
+Let me wait a little longer
+Until history turns back around
+Until the wine grows mellow
+Until you play one song on the guzheng
+Rain falls and falls
+In the old hometown, the grasses and trees grow deep
+I have heard
+You have always been alone
+The mottled city gate
+Is gripped by old tree roots
+What echoes on the stone slabs is still: wait
+Rain falls and falls
+In the old hometown, the grasses and trees grow deep
+I have heard
+You still guard that lonely city
+A shepherd’s flute from the outskirts
+Falls upon that wild village
+The fate that takes root in the earth is us` },
       { title: "兰亭序", en: "Orchid Pavilion Preface", lyrics: `兰亭临帖
 行书如行云流水
 月下门推
@@ -83,7 +146,21 @@ const LYRICS = {
 那岸边浪千叠
 情字何解
 怎落笔都不对
-我独缺你一生的了解` },
+我独缺你一生的了解`, enLyrics: `At the Orchid Pavilion, I copy the model text
+My running script flows like clouds and water
+The door opens beneath the moon
+Your footsteps are delicate and soft
+A shepherd’s flute plays sideways
+With rice wine and a few small dishes
+The afterglow of sunset
+Is like your shy, wine-blushed grace
+Beyond romance and moonlight
+I write this preface and wait for your return
+My brush pauses at the final stroke
+As waves gather in a thousand layers by the shore
+How can the word love be understood?
+No matter how I set down the brush, it feels wrong
+What I alone lack is a lifetime of being understood by you` },
       { title: "可爱女人", en: "Adorable Woman", lyrics: `想要有直升机
 想要和你飞到宇宙去
 想要和你融化在一起
@@ -104,7 +181,27 @@ const LYRICS = {
 漂亮的让我面红的可爱女人
 温柔的让我心疼的可爱女人
 聪明的让我感动的可爱女人
-坏坏的让我疯狂的可爱女人` },
+坏坏的让我疯狂的可爱女人`, enLyrics: `I want a helicopter
+I want to fly into space with you
+I want to melt together with you
+And melt into the Milky Way
+Every day, every day, every day, I am thinking, thinking, thinking of you
+This sweetness
+Makes me start believing in fate
+Thank you, gravity
+For letting me run into you
+Adorable woman, so beautiful you make me blush
+Adorable woman, so gentle you make my heart ache
+Adorable woman, so clever you move me
+Adorable woman, so mischievous you drive me wild
+Adorable woman, so beautiful you make me blush
+Adorable woman, so gentle you make my heart ache
+Adorable woman, so clever you move me
+Adorable woman, so mischievous you drive me wild
+Adorable woman, so beautiful you make me blush
+Adorable woman, so gentle you make my heart ache
+Adorable woman, so clever you move me
+Adorable woman, so mischievous you drive me wild` },
     ],
     en: "",
   },
@@ -160,7 +257,57 @@ She once was a true love of mine[/SF]
 蹊跷
 都无伤大雅
 她是她`,
-    en: "",
+    en: `The burning wound cools into a crescent moon
+The lamplight guides a sleepwalking carousel
+Graffiti is the splendor of a blank sheet of paper
+She tries to part her lips
+The snow-white sky suddenly turns to midsummer
+Birds long to fly away, without even making a sound
+Eyes are about to cry
+Candles are about to melt
+Why insist on doubting what is there?
+Who will go into tomorrow and meet me?
+Do not let today call me back
+Whenever I think of words
+Too vast for heaven and earth to hold
+A rosy haze catches fire in my heart
+Having never been
+To the white-haired horizon where the beloved wanders
+How could one understand moonlit reflections and flowers on water?
+Having never seen love
+Become unrecognizable through thousands of truths and lies
+Pearls and jade have long sunk and risen in the mud and sand
+Joy, anger, sorrow, and delight, it turns out,
+No matter how flamboyant,
+How strange,
+Are harmless in the end
+She is herself
+[SF]Scarborough Fair
+Are you going to Scarborough Fair?
+Parsley, sage, rosemary and thyme
+Remember me to one who lives there
+She once was a true love of mine[/SF]
+The snow-white sky suddenly turns to midsummer
+Birds long to fly away, without even making a sound
+Eyes are about to cry
+Candles are about to melt
+Why insist on doubting what is there?
+Who will go into tomorrow and meet me?
+Do not let today call me back
+Whenever I think of words
+Too vast for heaven and earth to hold
+A rosy haze catches fire in my heart
+Having never been
+To the white-haired horizon where the beloved wanders
+How could one understand moonlit reflections and flowers on water?
+Having never seen love
+Become unrecognizable through thousands of truths and lies
+Pearls and jade have long sunk and risen in the mud and sand
+Joy, anger, sorrow, and delight, it turns out,
+No matter how flamboyant,
+How strange,
+Are harmless in the end
+She is herself`,
   },
   3: {
     cn: `我不羡慕太阳
@@ -193,7 +340,36 @@ Oh Oh
 思念却背对背张望
 剩下倔强
 剩下合照一张`,
-    en: "",
+    en: `I do not envy the sun
+It cannot light up your past
+Some kinds of darkness are the same for both of us
+I envy time too much
+For leaving with such ease
+No words are needed, and so there is no need to hide
+There is a kind of sorrow
+Your name staying in my past
+Keeping me breathing
+Shaping the way I smile
+Impossible to forget
+There is a kind of sorrow
+Smiling as I part from you
+While longing looks away, back to back
+All that remains is stubbornness
+And one photo of us
+Oh, oh
+To become each other’s path
+How deeply we longed for it
+How could we lose our way?
+There is a kind of sorrow
+Your name staying in my past
+Keeping me breathing
+Shaping the way I smile
+Impossible to forget
+There is a kind of sorrow
+Smiling as I part from you
+While longing looks away, back to back
+All that remains is stubbornness
+And one photo of us`,
   },
   4: {
     cn: `谁把谁的灵魂装进谁的身体
@@ -244,7 +420,54 @@ I wish I could hug you till you're really really being free
 你的控诉没有声音
 却倾诉更多的真理
 却唤醒无数的真心`,
-    en: "",
+    en: `Who placed whose soul inside whose body?
+Who turned whose body
+Into a prison that confines the self?
+In chaotic times, whispers are never in short supply
+What kind of beauty calls forth envy?
+You are not at fault
+The fault belongs to this world
+There is no guilt in being born human
+You do not need to apologize
+One day I will be you baby boy and you gon' be me
+If the noise never stops
+Let me keep you company in silence
+I wish I could hug you till you're really really being free
+What rose has no thorns?
+The best revenge is beauty
+The most beautiful bloom is resistance
+Do not let anyone change who you are
+You can be you, however you are
+There will be someone who loves you wholeheartedly
+Try to imagine you switched to his body
+Sexuality — be careful what may hurt you
+How many heavy wounds
+How many cold words
+Drowning — who will pull you up?
+Dreaming — who will stay with you?
+Same shit happens every day.
+After you left, could the world change?
+So many ignorant wrongs; though the moment has passed, the world should not simply move on
+Remember forever — the past does not fade like smoke
+There is no guilt in being born human
+You do not need to apologize
+One day I will be you baby boy and you gon' be me
+If the noise never stops
+Let me keep you company in silence
+I wish I could hug you till you're really really being free
+What rose has no thorns?
+The best revenge is beauty
+The most beautiful bloom is resistance
+Do not let anyone change who you are
+You can be you, however you are
+There will be someone who loves you wholeheartedly
+Rose boy
+Lives in my heart
+Blooming into a radiant legend
+We have never forgotten
+Your accusation had no sound
+Yet it spoke more truth
+And awakened countless sincere hearts`,
   },
   5: {
     cn: `若不是因为爱着你
@@ -277,7 +500,36 @@ I wish I could hug you till you're really really being free
 有种不完整的心情
 爱你
 爱着你`,
-    en: "",
+    en: `If it were not because I love you
+Why would I still be sleepless deep into the night?
+Every thought is about you
+I miss you, miss you, miss you so much
+If it were not because I love you
+Why would I feel so unsettled?
+In every nameless day
+I miss you, miss you, miss you so much
+Love is a thing that torments
+Yet I cannot bear to give it up
+I keep guessing at your heart
+Wondering whether my name is there
+If it were not because I love you
+Why would I sigh without meaning to?
+There is a feeling left incomplete
+Loving you, loving you
+Loving you
+Love is a thing that torments
+Yet I cannot bear to give it up
+I keep guessing at your heart
+Wondering whether my name is there
+Love is my only secret
+It breaks the heart and still fascinates
+No matter what words I try to use
+They only, only turn into missing you
+If it were not because I love you
+Why would I sigh without meaning to?
+There is a feeling left incomplete
+Loving you
+Loving you`,
   },
   6: {
     cn: `Yo Yo Cyndi baby~
@@ -346,7 +598,72 @@ Oh
 因为你
 让我心甘情愿
 爱你`,
-    en: "",
+    en: `Yo Yo Cyndi baby~
+(Dance~)
+If you suddenly sneeze
+It must be because I am thinking of you
+If your phone wakes you in the middle of the night
+Ah, that is because I care about you
+I often wonder
+Whether your words carry another meaning
+I clearly want to believe
+Yet cannot help but doubt
+In your heart
+Am I the only one?
+Love means I am always bothering you
+Ho Baby
+Say a little more sweet talk
+If you miss me, look at me one more time
+Show me just a little more
+So I can truly see it
+Oh Bye
+Say goodbye a little less
+I want to be with you for more than just one day
+A little more
+And I will willingly
+Love you
+I like making a mess in the crook of your arm
+Your world is a castle
+I cover our photo stickers with hearts
+And place them on my phone, smiling at you
+I often wonder
+Whether you really hear what I say
+I clearly want to be angry
+Yet cannot hold back my smile
+In my heart
+You truly are the only one
+Love means I am always leaning on you
+Ho Baby
+Say a little more sweet talk
+If you miss me, look at me one more time
+Show me just a little more
+So I can truly see it
+Oh Bye
+Say goodbye a little less
+I want to be with you for more than just one day
+A little more
+And I will willingly
+Love you
+Just like this
+Day after day
+Feelings slowly build
+The world of the two of us
+Can move a little closer
+Hey hey
+Ho Baby
+Say a little more sweet talk
+If you miss me, look at me one more time
+Show me just a little more
+So I can truly see it
+Oh Bye
+Say goodbye a little less
+I want to be with you for more than just one day
+A little more
+And I will slowly realize
+Oh
+Because of you
+I am willing, wholeheartedly,
+To love you`,
   },
   7: {
     cn: "",
@@ -457,7 +774,44 @@ The lessons I've learned`,
 如果这是最后的一页
 在你离开之前
 能否让我把故事重写`,
-    en: "",
+    en: `The rain hangs suspended in the sky
+Like tears circling in my eyes
+Perhaps this is the last time we will meet
+The past we passed along the way
+Is already too late to replay
+Our embrace has quietly turned cold
+The sound of the tide drowns out the dusk of our farewell
+Leaving only the warmth we cannot bear to let go
+Beneath the stars, holding the tenderness about to fade
+Love can only remain whole inside memory
+I want to hold you inside my body
+But I do not dare let you see
+The tear at the corner of my mouth that has not yet fallen
+If this is the final page
+Before you leave
+Can you let me rewrite the story?
+The rain hangs suspended in the sky
+Like tears circling in my eyes
+Perhaps this is the last time we will meet
+The past we passed along the way
+Is already too late to replay
+Our embrace has quietly turned cold
+The sound of the tide drowns out the dusk of our farewell
+Leaving only the warmth we cannot bear to let go
+Beneath the stars, holding the tenderness about to fade
+Love can only remain whole inside memory
+I want to hold you inside my body
+But I do not dare let you see
+The tear at the corner of my mouth that has not yet fallen
+If this is the final page
+Before you leave
+Can you let me rewrite the story?
+I want to hold you inside my body
+But I do not dare let you see
+The tear at the corner of my mouth that has not yet fallen
+If this is the final page
+Before you leave
+Can you let me rewrite the story?`,
   },
   9: {
     cn: "",
@@ -551,12 +905,49 @@ I'd wanna be next to you`,
 让时光停驻转角
 任多少回忆喧嚣
 再唱起歌谣`,
-    en: "",
+    en: `I have been searching
+An unexpected corner brought our meeting
+The story began without a sign
+How did we arrive
+At the wonder of a fate made whole
+At this castle of music?
+It was just right
+Catching the signal in your eyes
+Our quiet chemistry begins to bloom
+Waiting for the next second
+To fall dizzy among spinning notes
+The perfect pitch
+There is a smile in your eyes
+Capturing this moment
+My heartbeat skips a beat
+I want you to know
+I love watching your silly smile
+I keep running
+Following you to the ends of the world
+Wanting every hug to be tight
+Afraid that forever is still too little
+No more worries
+No words are needed to send our secret sign
+A steady place to lean on
+Slowly drawing closer
+The distance between us is just right
+And even our unspoken understanding is beautiful
+I want you to know
+I love watching your silly smile
+Through every noisy or laughing second
+I keep running
+Following you to the ends of the world
+Wanting every hug to be tight
+Afraid that forever is still too little
+I am always praying
+That time will pause at the corner
+No matter how many memories clamor around us
+We will sing this song again`,
   }
 };
 
 const CONCERT = {
-  title: "花样年华",
+  title: "花樣年華",
   titleEn: "Mood4Love++",
   group: "Sing++",
   subtitle: "11th Anniversary Annual Concert",
@@ -588,20 +979,21 @@ const CONCERT = {
     { cn: "宋雯琪", en: "Ailsa Song", part: "Guest" },
   ],
   songs: [
-    { id: 1, title: "周杰伦组曲", en: "Jay Chou Medley", sub: "七里香 · 烟花易冷 · 兰亭序 · 可爱女人", lyricist: "方文山、徐若瑄", lyricistEn: "Vincent Fang, Vivian Hsu", composer: "周杰伦", composerEn: "Jay Chou", arranger: "徐心语、范藜、吴子奇、小北Roy", arrangerEn: "Alyssa Xu, Tiffany Fan, Finn Wurtz, Roy" },
-    { id: 2, title: "珠玉", en: "Pearls and Jade", sub: "融合 Scarborough Fair", lyricist: "李聪", lyricistEn: "Cong Li", composer: "陈建骐", composerEn: "Jianqi Chen", arranger: "徐心语", arrangerEn: "Alyssa Xu" },
+    { id: 1, title: "周杰伦组曲", en: "Jay Chou Medley", sub: "七里香 · 烟花易冷 · 兰亭序 · 可爱女人", subEn: "Common Jasmine Orange · Fade Away · Orchid Pavilion Preface · Adorable Woman", lyricist: "方文山、徐若瑄", lyricistEn: "Vincent Fang, Vivian Hsu", composer: "周杰伦", composerEn: "Jay Chou", arranger: "徐心语、范藜、吴子奇、小北Roy", arrangerEn: "Alyssa Xu, Tiffany Fan, Finn Wurtz, Roy" },
+    { id: 2, title: "珠玉", en: "Pearls and Jade", sub: "融合 Scarborough Fair", subEn: "featuring Scarborough Fair", lyricist: "李聪", lyricistEn: "Cong Li", composer: "陈建骐", composerEn: "Jianqi Chen", arranger: "徐心语", arrangerEn: "Alyssa Xu" },
     { id: 3, title: "有一种悲伤", en: "A Kind of Sorrow", lyricist: "林孝谦", lyricistEn: "Lin Xiao Qian", composer: "张简君伟", composerEn: "Zhang Jianjunwei", arranger: "陈奕成、徐心语", arrangerEn: "Chen Yi-Cheng, Alyssa Xu" },
     { id: 4, title: "玫瑰少年", en: "Womxnly", lyricist: "蔡依林、阿信", lyricistEn: "Jolin Tsai, Ashin", composer: "剃刀蒋、蔡依林", composerEn: "Razoredge Jiang, Jolin Tsai", arranger: "徐心语", arrangerEn: "Alyssa Xu" },
-    { id: 5, title: "爱情", en: "Love", note: "独唱 Solo", lyricist: "姚谦、张洪量", lyricistEn: "Yao Qian, Chang Hung-liang", composer: "张洪量", composerEn: "Chang Hung-liang", arranger: "董运昌", arrangerEn: "Yunchang Dong", performer: "宋雯琪 Ailsa Song" },
+    { id: 5, title: "爱情", en: "Love", note: "独唱 Solo", noteEn: "Solo", lyricist: "姚谦、张洪量", lyricistEn: "Yao Qian, Chang Hung-liang", composer: "张洪量", composerEn: "Chang Hung-liang", arranger: "董运昌", arrangerEn: "Yunchang Dong", performer: "宋雯琪 Ailsa Song", performerEn: "Ailsa Song" },
     { id: 6, title: "爱你", en: "Love You", lyricist: "潘瑛、谈晓珍", lyricistEn: "Pan Ying, Vivian Hsu", composer: "Hwang Se-jun", composerEn: "Hwang Se-jun", arranger: "徐心语", arrangerEn: "Alyssa Xu" },
     { id: 7, title: "Counting Stars", en: "Counting Stars", lyricist: "Ryan Tedder", lyricistEn: "Ryan Tedder", composer: "Ryan Tedder", composerEn: "Ryan Tedder", arranger: "陈奕成、徐心语", arrangerEn: "Chen Yi-Cheng, Alyssa Xu" },
     { id: 8, title: "最后一页", en: "The Last Page", lyricist: "宋健彰", lyricistEn: "Devon Song", composer: "詹宇豪", composerEn: "Yuhao Zhan", arranger: "孙国钦", arrangerEn: "Steve Sun" },
     { id: 9, title: "Die With a Smile", en: "Die With a Smile", lyricist: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", lyricistEn: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", composer: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", composerEn: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", arranger: "Kali Mason", arrangerEn: "Kali Mason" },
-    { id: 10, title: "星加加之歌", en: "Sing Plus Plus", note: "原创 Original", lyricist: "刘雪莹", lyricistEn: "Xueying Liu", composer: "刘雪莹", composerEn: "Xueying Liu", arranger: "刘雪莹、Tiffany", arrangerEn: "Xueying Liu, Tiffany" },
+    { id: 10, title: "星加加之歌", en: "Sing Plus Plus", note: "原创 Original", noteEn: "Original", lyricist: "刘雪莹", lyricistEn: "Xueying Liu", composer: "刘雪莹", composerEn: "Xueying Liu", arranger: "刘雪莹、Tiffany", arrangerEn: "Xueying Liu, Tiffany" },
   ],
 };
 
 const PL = { Soprano: "女高音 Soprano", Alto: "女低音 Alto", Tenor: "男高音 Tenor", Bass: "低音 Bass", VP: "人声打击 VP", Guest: "特邀嘉宾 Guest" };
+const PLE = { Soprano: "Soprano", Alto: "Alto", Tenor: "Tenor", Bass: "Bass", VP: "Vocal Percussion", Guest: "Guest" };
 const PO = ["Soprano", "Alto", "Tenor", "Bass", "VP", "Guest"];
 
 function Waveform({ n = 20, h = 28 }) {
@@ -618,7 +1010,7 @@ function Waveform({ n = 20, h = 28 }) {
   );
 }
 
-function Cover({ onEnter }) {
+function Cover({ onEnter, lang, setLang }) {
   const [v, setV] = useState(false);
   useEffect(() => { setTimeout(() => setV(true), 100); }, []);
   return (
@@ -654,9 +1046,9 @@ function Cover({ onEnter }) {
         <Waveform n={26} h={32} />
       </div>
       <div style={{ opacity: v ? 1 : 0, transition: "opacity 1.5s ease .9s", marginTop: 48, display: "flex", flexDirection: "column", alignItems: "center", gap: 8 }}>
-        <div style={{ fontFamily: "var(--fb)", fontSize: 12, color: "var(--ac)", letterSpacing: 3 }}>{CONCERT.subtitle}</div>
-        <div style={{ fontFamily: "var(--fb)", fontSize: 13, color: "var(--t2)", letterSpacing: 1 }}>{CONCERT.date}</div>
-        <div style={{ fontFamily: "var(--fb)", fontSize: 12, color: "var(--t3)", letterSpacing: 1 }}>{CONCERT.venue} · {CONCERT.address}</div>
+        <div style={{ fontFamily: "var(--fb)", fontSize: 11, color: "var(--t3)", letterSpacing: 3 }}>11th Anniversary Concert</div>
+        <div style={{ fontFamily: "var(--fb)", fontSize: 13, color: "var(--t2)", letterSpacing: 1, marginTop: 8 }}>{CONCERT.date}</div>
+        <a href="https://maps.google.com/?q=Toyon+Hall+455+Arguello+Way+Stanford+CA+94305" target="_blank" rel="noopener noreferrer" style={{ fontFamily: "var(--fb)", fontSize: 12, color: "var(--t3)", letterSpacing: 1, textDecoration: "none" }}>{CONCERT.venue} · {CONCERT.address}</a>
         <a href="https://instagram.com/singplusplus" target="_blank" rel="noopener noreferrer"
           style={{ display: "inline-flex", alignItems: "center", gap: 6, marginTop: 4, color: "var(--ac)", textDecoration: "none", fontFamily: "var(--fb)", fontSize: 12, letterSpacing: 1, opacity: .6 }}>
           <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -665,25 +1057,35 @@ function Cover({ onEnter }) {
           @singplusplus
         </a>
       </div>
-      <button onClick={onEnter} style={{
-        opacity: v ? 1 : 0, transition: "all 1.5s ease 1.3s", marginTop: 56,
-        padding: "14px 56px", background: "transparent", border: "1px solid var(--ac)",
-        color: "var(--ac)", fontFamily: "var(--fb)", fontSize: 12, letterSpacing: 5,
-        cursor: "pointer", borderRadius: 0, position: "relative", zIndex: 10,
-      }}
-        onMouseEnter={e => { e.currentTarget.style.background = "var(--ac)"; e.currentTarget.style.color = "var(--bg)"; }}
-        onMouseLeave={e => { e.currentTarget.style.background = "transparent"; e.currentTarget.style.color = "var(--ac)"; }}>
-        ENTER
-      </button>
+      <div style={{ opacity: v ? 1 : 0, transition: "all 1.5s ease 1.3s", marginTop: 48, display: "flex", gap: 16, position: "relative", zIndex: 10 }}>
+        <button onClick={() => { setLang("cn"); onEnter(); }} style={{
+          padding: "14px 0", width: 100, background: "transparent", border: "1px solid var(--ac)",
+          color: "var(--ac)", fontFamily: "var(--fc)", fontSize: 14, letterSpacing: 3,
+          cursor: "pointer", borderRadius: 0, transition: "all .2s", textAlign: "center",
+        }}
+          onMouseEnter={e => { e.currentTarget.style.background = "var(--ac)"; e.currentTarget.style.color = "var(--bg)"; }}
+          onMouseLeave={e => { e.currentTarget.style.background = "transparent"; e.currentTarget.style.color = "var(--ac)"; }}>
+          中文
+        </button>
+        <button onClick={() => { setLang("en"); onEnter(); }} style={{
+          padding: "14px 0", width: 100, background: "transparent", border: "1px solid var(--ac)",
+          color: "var(--ac)", fontFamily: "var(--fb)", fontSize: 13, letterSpacing: 4,
+          cursor: "pointer", borderRadius: 0, transition: "all .2s", textAlign: "center",
+        }}
+          onMouseEnter={e => { e.currentTarget.style.background = "var(--ac)"; e.currentTarget.style.color = "var(--bg)"; }}
+          onMouseLeave={e => { e.currentTarget.style.background = "transparent"; e.currentTarget.style.color = "var(--ac)"; }}>
+          EN
+        </button>
+      </div>
     </div>
   );
 }
 
-function Program({ songs, onSelect }) {
+function Program({ songs, onSelect, lang }) {
   return (
     <div style={{ padding: "0 24px 40px" }}>
       <div style={{ fontSize: 11, letterSpacing: 4, color: "var(--ac)", fontFamily: "var(--fb)", marginBottom: 24 }}>
-        PROGRAM · 曲目
+        {lang === "cn" ? "曲目 · PROGRAM" : "PROGRAM"}
       </div>
       {songs.map((s, i) => (
         <button key={s.id} onClick={() => onSelect(s.id)} style={{
@@ -697,12 +1099,15 @@ function Program({ songs, onSelect }) {
             {String(i + 1).padStart(2, "0")}
           </span>
           <div style={{ flex: 1, minWidth: 0 }}>
-            <div style={{ fontFamily: "var(--fc)", fontSize: 17, fontWeight: 500, color: "var(--t1)", marginBottom: 3, letterSpacing: 1 }}>
-              {s.title}
-              {s.note && <span style={{ fontSize: 10, color: "var(--ac)", marginLeft: 8, fontFamily: "var(--fb)", letterSpacing: 1, fontWeight: 400 }}>{s.note}</span>}
+            <div style={{ fontFamily: lang === "cn" ? "var(--fc)" : "var(--fd)", fontSize: 17, fontWeight: 500, color: "var(--t1)", marginBottom: 3, letterSpacing: lang === "cn" ? 1 : 0 }}>
+              {lang === "cn" ? s.title : s.en}
+              {s.note && <span style={{ fontSize: 10, color: "var(--ac)", marginLeft: 8, fontFamily: "var(--fb)", letterSpacing: 1, fontWeight: 400 }}>{lang === "en" && s.noteEn ? s.noteEn : s.note}</span>}
             </div>
-            {s.en !== s.title && (
+            {s.en !== s.title && lang === "cn" && (
               <div style={{ fontFamily: "var(--fd)", fontSize: 13, color: "var(--t2)", fontStyle: "italic", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{s.en}</div>
+            )}
+            {lang === "en" && s.title !== s.en && (
+              <div style={{ fontFamily: "var(--fc)", fontSize: 13, color: "var(--t2)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>{s.title}</div>
             )}
           </div>
           <span style={{ fontFamily: "var(--fb)", fontSize: 14, color: "var(--ac)", opacity: .5, flexShrink: 0 }}>→</span>
@@ -712,9 +1117,8 @@ function Program({ songs, onSelect }) {
   );
 }
 
-function SongDetail({ song, onBack }) {
+function SongDetail({ song, onBack, lang }) {
   const [v, setV] = useState(false);
-  const [lyricsTab, setLyricsTab] = useState("cn");
   const [medleyIdx, setMedleyIdx] = useState(0);
   useEffect(() => { setV(false); setMedleyIdx(0); setTimeout(() => setV(true), 50); }, [song.id]);
 
@@ -724,32 +1128,27 @@ function SongDetail({ song, onBack }) {
   const hasEn = !isMedley && lyrics.en && !lyrics.en.startsWith("（");
   const hasLyrics = hasCn || hasEn || isMedley;
 
-  useEffect(() => {
-    if (hasCn) setLyricsTab("cn");
-    else if (hasEn) setLyricsTab("en");
-  }, [song.id, hasCn, hasEn]);
-
   const info = [
-    song.performer && { l: "演唱", v: song.performer, ve: "" },
-    song.lyricist && { l: "作词", v: song.lyricist, ve: song.lyricistEn },
-    song.composer && { l: "作曲", v: song.composer, ve: song.composerEn },
-    song.arranger && { l: "编曲", v: song.arranger, ve: song.arrangerEn },
+    song.performer && { l: lang === "cn" ? "演唱" : "Performer", v: lang === "en" && song.performerEn ? song.performerEn : song.performer, ve: "" },
+    song.lyricist && { l: lang === "cn" ? "作词" : "Lyrics", v: lang === "cn" ? song.lyricist : (song.lyricistEn || song.lyricist), ve: lang === "cn" ? song.lyricistEn : "" },
+    song.composer && { l: lang === "cn" ? "作曲" : "Music", v: lang === "cn" ? song.composer : (song.composerEn || song.composer), ve: lang === "cn" ? song.composerEn : "" },
+    song.arranger && { l: lang === "cn" ? "编曲" : "Arr.", v: lang === "cn" ? song.arranger : (song.arrangerEn || song.arranger), ve: lang === "cn" ? song.arrangerEn : "" },
   ].filter(Boolean);
 
   return (
     <div style={{ padding: "0 24px 60px", opacity: v ? 1 : 0, transform: v ? "translateY(0)" : "translateY(20px)", transition: "all .5s cubic-bezier(.22,1,.36,1)" }}>
       <button onClick={onBack} style={{ background: "none", border: "none", color: "var(--ac)", fontFamily: "var(--fb)", fontSize: 13, cursor: "pointer", padding: "4px 0", marginBottom: 28, letterSpacing: 1 }}>
-        ← 返回
+        {lang === "cn" ? "← 返回" : "← Back"}
       </button>
       <span style={{ fontFamily: "var(--fd)", fontSize: 64, fontWeight: 300, color: "var(--ac)", lineHeight: 1, opacity: .3, position: "absolute", right: 24, marginTop: -10 }}>
         {String(song.id).padStart(2, "0")}
       </span>
-      <h2 style={{ fontFamily: "var(--fc)", fontSize: 30, fontWeight: 600, color: "var(--t1)", margin: "0 0 6px", letterSpacing: 2 }}>{song.title}</h2>
+      <h2 style={{ fontFamily: lang === "cn" ? "var(--fc)" : "var(--fd)", fontSize: 28, fontWeight: lang === "cn" ? 600 : 400, color: "var(--t1)", margin: "0 0 6px", letterSpacing: lang === "cn" ? 2 : 1, fontStyle: lang === "en" ? "italic" : "normal" }}>{lang === "cn" ? song.title : song.en}</h2>
       {song.en !== song.title && (
-        <p style={{ fontFamily: "var(--fd)", fontSize: 16, color: "var(--t2)", margin: "0 0 4px", fontStyle: "italic", letterSpacing: 1 }}>{song.en}</p>
+        <p style={{ fontFamily: lang === "cn" ? "var(--fd)" : "var(--fc)", fontSize: 15, color: "var(--t2)", margin: "0 0 4px", fontStyle: lang === "cn" ? "italic" : "normal", letterSpacing: 1 }}>{lang === "cn" ? song.en : song.title}</p>
       )}
-      {song.sub && <p style={{ fontFamily: "var(--fb)", fontSize: 13, color: "var(--ac)", margin: "10px 0 0", lineHeight: 1.8, letterSpacing: .5 }}>{song.sub}</p>}
-      {song.note && <div style={{ display: "inline-block", marginTop: 14, padding: "5px 14px", background: "var(--acd)", borderRadius: 2, fontFamily: "var(--fb)", fontSize: 11, color: "var(--ac)", letterSpacing: 2 }}>{song.note}</div>}
+      {song.sub && <p style={{ fontFamily: "var(--fb)", fontSize: 13, color: "var(--ac)", margin: "10px 0 0", lineHeight: 1.8, letterSpacing: .5 }}>{lang === "en" && song.subEn ? song.subEn : song.sub}</p>}
+      {song.note && <div style={{ display: "inline-block", marginTop: 14, padding: "5px 14px", background: "var(--acd)", borderRadius: 2, fontFamily: "var(--fb)", fontSize: 11, color: "var(--ac)", letterSpacing: 2 }}>{lang === "en" && song.noteEn ? song.noteEn : song.note}</div>}
 
       <div style={{ marginTop: 28, borderTop: "1px solid var(--bd)", paddingTop: 16 }}>
         {info.map((x, i) => (
@@ -765,30 +1164,19 @@ function SongDetail({ song, onBack }) {
 
       <div style={{ marginTop: 28 }}>
         <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 16 }}>
-          <span style={{ fontFamily: "var(--fb)", fontSize: 11, color: "var(--t3)", letterSpacing: 2 }}>LYRICS · 歌词</span>
-          {!isMedley && hasLyrics && hasCn && hasEn && (
-            <div style={{ display: "flex", marginLeft: "auto", border: "1px solid var(--bd)", borderRadius: 2, overflow: "hidden" }}>
-              {[{ k: "cn", l: "中文" }, { k: "en", l: "EN" }].map(t => (
-                <button key={t.k} onClick={() => setLyricsTab(t.k)} style={{
-                  padding: "4px 14px", border: "none", cursor: "pointer",
-                  fontFamily: "var(--fb)", fontSize: 11, letterSpacing: 1,
-                  background: lyricsTab === t.k ? "var(--acd)" : "transparent",
-                  color: lyricsTab === t.k ? "var(--ac)" : "var(--t3)", transition: "all .2s",
-                }}>{t.l}</button>
-              ))}
-            </div>
-          )}
+          <span style={{ fontFamily: "var(--fb)", fontSize: 11, color: "var(--t3)", letterSpacing: 2 }}>{lang === "cn" ? "歌词 · LYRICS" : "LYRICS"}</span>
         </div>
 
         {isMedley && (
-          <div style={{ display: "flex", flexWrap: "wrap", gap: 6, marginBottom: 16 }}>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(4, 1fr)", gap: 6, marginBottom: 16 }}>
             {lyrics.parts.map((p, i) => (
               <button key={i} onClick={() => setMedleyIdx(i)} style={{
-                padding: "6px 14px", border: "1px solid var(--bd)", borderRadius: 2, cursor: "pointer",
-                fontFamily: "var(--fb)", fontSize: 12, letterSpacing: 1,
+                padding: "8px 6px", border: "1px solid var(--bd)", borderRadius: 2, cursor: "pointer",
+                fontFamily: "var(--fb)", fontSize: 11, letterSpacing: 0, textAlign: "center",
                 background: medleyIdx === i ? "var(--acd)" : "transparent",
                 color: medleyIdx === i ? "var(--ac)" : "var(--t3)", transition: "all .2s",
-              }}>{p.title}</button>
+                display: "flex", alignItems: "center", justifyContent: "center", minHeight: 44,
+              }}>{lang === "en" ? p.en : p.title}</button>
             ))}
           </div>
         )}
@@ -796,14 +1184,14 @@ function SongDetail({ song, onBack }) {
         <div style={{ padding: "20px 0 0", borderLeft: "2px solid var(--acd)", paddingLeft: 20 }}>
           {isMedley ? (
             <div>
-              <div style={{ fontFamily: "var(--fc)", fontSize: 16, fontWeight: 600, color: "var(--t1)", letterSpacing: 2, marginBottom: 4 }}>{lyrics.parts[medleyIdx].title}</div>
-              <div style={{ fontFamily: "var(--fd)", fontSize: 13, color: "var(--t3)", fontStyle: "italic", marginBottom: 16 }}>{lyrics.parts[medleyIdx].en}</div>
-              <div style={{ fontFamily: "var(--fb)", fontSize: 14, color: "var(--t2)", lineHeight: 2.2, whiteSpace: "pre-line" }}>{lyrics.parts[medleyIdx].lyrics}</div>
+              <div style={{ fontFamily: lang === "cn" ? "var(--fc)" : "var(--fd)", fontSize: 16, fontWeight: lang === "cn" ? 600 : 400, color: "var(--t1)", letterSpacing: lang === "cn" ? 2 : 1, marginBottom: 4, fontStyle: lang === "en" ? "italic" : "normal" }}>{lang === "cn" ? lyrics.parts[medleyIdx].title : lyrics.parts[medleyIdx].en}</div>
+              <div style={{ fontFamily: lang === "cn" ? "var(--fd)" : "var(--fc)", fontSize: 13, color: "var(--t3)", fontStyle: lang === "cn" ? "italic" : "normal", marginBottom: 16 }}>{lang === "cn" ? lyrics.parts[medleyIdx].en : lyrics.parts[medleyIdx].title}</div>
+              <div style={{ fontFamily: "var(--fb)", fontSize: 14, color: "var(--t2)", lineHeight: 2.2, whiteSpace: "pre-line" }}>{lang === "en" && lyrics.parts[medleyIdx].enLyrics ? lyrics.parts[medleyIdx].enLyrics : lyrics.parts[medleyIdx].lyrics}</div>
             </div>
           ) : hasLyrics ? (
             <div style={{ fontFamily: "var(--fb)", fontSize: 14, color: "var(--t2)", lineHeight: 2.2 }}>
               {(() => {
-                const raw = lyricsTab === "cn" && hasCn ? lyrics.cn : lyrics.en;
+                const raw = lang === "en" && hasEn ? lyrics.en : lyrics.cn;
                 const parts = raw.split(/\[SF\]|\[\/SF\]/);
                 return parts.map((part, pi) => {
                   if (pi === 1) {
@@ -832,23 +1220,23 @@ function SongDetail({ song, onBack }) {
   );
 }
 
-function Members() {
+function Members({ lang }) {
   const grouped = PO.map(p => ({ part: p, m: CONCERT.members.filter(x => x.part === p) })).filter(g => g.m.length > 0);
   return (
     <div style={{ padding: "0 24px 40px" }}>
       <div style={{ fontSize: 11, letterSpacing: 4, color: "var(--ac)", fontFamily: "var(--fb)", marginBottom: 32 }}>
-        PERFORMERS · 参演人员
+        {lang === "cn" ? "参演人员 · PERFORMERS" : "PERFORMERS"}
       </div>
       {grouped.map(({ part, m }) => (
         <div key={part} style={{ marginBottom: 32 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 10, paddingBottom: 8, marginBottom: 4, borderBottom: "1px solid var(--acd)" }}>
             <div style={{ width: 6, height: 1, background: "var(--ac)", opacity: .5 }} />
-            <span style={{ fontFamily: "var(--fb)", fontSize: 11, color: "var(--ac)", letterSpacing: 3, fontWeight: 400 }}>{PL[part]}</span>
+            <span style={{ fontFamily: "var(--fb)", fontSize: 11, color: "var(--ac)", letterSpacing: 3, fontWeight: 400 }}>{lang === "en" ? PLE[part] : PL[part]}</span>
           </div>
           {m.map((x, i) => (
             <div key={i} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", padding: "8px 0 8px 18px", borderBottom: i < m.length - 1 ? "1px solid var(--bd)" : "none" }}>
-              <span style={{ fontFamily: "var(--fc)", fontSize: 14, color: "var(--t1)", letterSpacing: 1.5, fontWeight: 500 }}>{x.cn}</span>
-              <span style={{ fontFamily: "var(--fd)", fontSize: 14, color: "var(--t2)", fontStyle: "italic", letterSpacing: 0.5 }}>{x.en}</span>
+              <span style={{ fontFamily: lang === "cn" ? "var(--fc)" : "var(--fd)", fontSize: 14, color: "var(--t1)", letterSpacing: lang === "cn" ? 1.5 : 0.5, fontWeight: 500, fontStyle: lang === "en" ? "italic" : "normal" }}>{lang === "cn" ? x.cn : x.en}</span>
+              <span style={{ fontFamily: lang === "cn" ? "var(--fd)" : "var(--fc)", fontSize: 14, color: "var(--t2)", fontStyle: lang === "cn" ? "italic" : "normal", letterSpacing: 0.5 }}>{lang === "cn" ? x.en : x.cn}</span>
             </div>
           ))}
         </div>
@@ -857,14 +1245,15 @@ function Members() {
   );
 }
 
-function Nav({ tab, setTab, onHome }) {
+function Nav({ tab, setTab, onHome, lang, setLang }) {
+  const [langOpen, setLangOpen] = useState(false);
   return (
     <div style={{ position: "sticky", top: 0, zIndex: 100, background: "var(--bg)", borderBottom: "none", boxShadow: "0 4px 20px rgba(0,0,0,.3)", padding: "0 24px", display: "flex", alignItems: "center" }}>
       <button onClick={onHome} style={{ background: "none", border: "none", cursor: "pointer", padding: "14px 12px 14px 0", fontFamily: "var(--fc)", fontSize: 15, fontWeight: 500, color: "var(--t1)", marginRight: "auto", letterSpacing: 2 }}>
         {CONCERT.title}
         <span style={{ color: "var(--ac)", fontSize: 12, marginLeft: 8, fontStyle: "italic", fontFamily: "var(--fd)", fontWeight: 300 }}>{CONCERT.titleEn}</span>
       </button>
-      {[{ id: "program", l: "曲目" }, { id: "members", l: "人员" }].map(t => (
+      {[{ id: "program", l: lang === "cn" ? "曲目" : "Program" }, { id: "members", l: lang === "cn" ? "人员" : "Cast" }].map(t => (
         <button key={t.id} onClick={() => setTab(t.id)} style={{
           padding: "14px 14px", background: "none", border: "none",
           borderBottom: tab === t.id ? "2px solid var(--ac)" : "2px solid transparent",
@@ -872,6 +1261,41 @@ function Nav({ tab, setTab, onHome }) {
           fontFamily: "var(--fb)", fontSize: 12, cursor: "pointer", letterSpacing: 1, transition: "all .2s",
         }}>{t.l}</button>
       ))}
+      <div style={{ position: "relative", marginLeft: 8 }}>
+        <button onClick={() => setLangOpen(!langOpen)} style={{
+          padding: "6px 8px", background: "none", border: "none", cursor: "pointer",
+          color: "var(--ac)", display: "flex", alignItems: "center", opacity: .7, transition: "opacity .2s",
+        }}
+          onMouseEnter={e => e.currentTarget.style.opacity = 1}
+          onMouseLeave={e => e.currentTarget.style.opacity = .7}>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
+            <circle cx="12" cy="12" r="10"/><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+          </svg>
+        </button>
+        {langOpen && <>
+          <div style={{ position: "fixed", top: 0, left: 0, right: 0, bottom: 0, zIndex: 998 }} onClick={() => setLangOpen(false)} />
+          <div style={{
+            position: "absolute", top: "100%", right: 0, marginTop: 4, zIndex: 999,
+            background: "var(--bg)", border: "1px solid var(--bd)",
+            borderRadius: 4, overflow: "hidden", boxShadow: "0 8px 24px rgba(0,0,0,.4)",
+            minWidth: 100,
+          }}>
+            {[{ k: "cn", l: "中文" }, { k: "en", l: "English" }].map(opt => (
+              <button key={opt.k} onClick={() => { setLang(opt.k); setLangOpen(false); }} style={{
+                display: "block", width: "100%", padding: "10px 16px", border: "none",
+                background: lang === opt.k ? "var(--acd)" : "transparent",
+                color: lang === opt.k ? "var(--ac)" : "var(--t2)",
+                fontFamily: "var(--fb)", fontSize: 13, cursor: "pointer",
+                textAlign: "left", transition: "background .2s",
+              }}
+                onMouseEnter={e => { if (lang !== opt.k) e.currentTarget.style.background = "rgba(255,255,255,.03)"; }}
+                onMouseLeave={e => { if (lang !== opt.k) e.currentTarget.style.background = "transparent"; }}>
+                {opt.l}
+              </button>
+            ))}
+          </div>
+        </>}
+      </div>
     </div>
   );
 }
@@ -880,6 +1304,7 @@ export default function App() {
   const [page, setPage] = useState("cover");
   const [tab, setTab] = useState("program");
   const [sel, setSel] = useState(null);
+  const [lang, setLang] = useState("cn");
   const song = CONCERT.songs.find(s => s.id === sel);
 
   return (
@@ -917,23 +1342,23 @@ export default function App() {
       `}</style>
 
       {page === "cover" ? (
-        <Cover onEnter={() => setPage("main")} />
+        <Cover onEnter={() => setPage("main")} lang={lang} setLang={setLang} />
       ) : (
         <div>
-          <Nav tab={tab} setTab={t => { setTab(t); setSel(null); }} onHome={() => setPage("cover")} />
+          <Nav tab={tab} setTab={t => { setTab(t); setSel(null); }} onHome={() => setPage("cover")} lang={lang} setLang={setLang} />
           <div style={{ paddingTop: 28 }}>
             {tab === "program" && !sel && (
-              <Program songs={CONCERT.songs} onSelect={id => { setSel(id); window.scrollTo?.({ top: 0, behavior: "smooth" }); }} />
+              <Program songs={CONCERT.songs} lang={lang} onSelect={id => { setSel(id); window.scrollTo?.({ top: 0, behavior: "smooth" }); }} />
             )}
             {tab === "program" && sel && song && (
-              <SongDetail song={song} onBack={() => { setSel(null); window.scrollTo?.({ top: 0, behavior: "smooth" }); }} />
+              <SongDetail song={song} lang={lang} onBack={() => { setSel(null); window.scrollTo?.({ top: 0, behavior: "smooth" }); }} />
             )}
-            {tab === "members" && <Members />}
+            {tab === "members" && <Members lang={lang} />}
           </div>
           <div style={{ padding: "40px 24px 28px", textAlign: "center", borderTop: "1px solid var(--bd)", marginTop: 32 }}>
             <Waveform n={18} h={20} />
             <div style={{ fontFamily: "var(--fb)", fontSize: 11, color: "var(--t3)", marginTop: 14, letterSpacing: 3 }}>
-              {CONCERT.group} · {CONCERT.subtitle}
+              {CONCERT.group} · {lang === "cn" ? CONCERT.subtitle : "11th Anniversary Annual Concert"}
             </div>
             <a href="https://instagram.com/singplusplus" target="_blank" rel="noopener noreferrer"
               style={{ display: "inline-flex", alignItems: "center", gap: 6, marginTop: 14, color: "var(--ac)", textDecoration: "none", fontFamily: "var(--fb)", fontSize: 12, letterSpacing: 1, opacity: .7, transition: "opacity .2s" }}
