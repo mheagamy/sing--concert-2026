@@ -988,7 +988,7 @@ const CONCERT = {
     { id: 7, title: "Counting Stars", en: "Counting Stars", lyricist: "Ryan Tedder", lyricistEn: "Ryan Tedder", composer: "Ryan Tedder", composerEn: "Ryan Tedder", arranger: "陈奕成、徐心语", arrangerEn: "Chen Yi-Cheng, Alyssa Xu" },
     { id: 8, title: "最后一页", en: "The Last Page", lyricist: "宋健彰", lyricistEn: "Devon Song", composer: "詹宇豪", composerEn: "Yuhao Zhan", arranger: "孙国钦", arrangerEn: "Steve Sun" },
     { id: 9, title: "Die With a Smile", en: "Die With a Smile", lyricist: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", lyricistEn: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", composer: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", composerEn: "Lady Gaga, Bruno Mars, D\'Mile, James Fauntleroy", arranger: "Kali Mason", arrangerEn: "Kali Mason" },
-    { id: 10, title: "星加加之歌", en: "Sing Plus Plus", note: "原创 Original", noteEn: "Original", lyricist: "刘雪莹", lyricistEn: "Xueying Liu", composer: "刘雪莹", composerEn: "Xueying Liu", arranger: "刘雪莹、Tiffany", arrangerEn: "Xueying Liu, Tiffany" },
+    { id: 10, title: "星加加之歌", en: "Sing Plus Plus", note: "原创 Original", noteEn: "Original", lyricist: "刘雪莹", lyricistEn: "Xueying Liu", composer: "刘雪莹", composerEn: "Xueying Liu", arranger: "刘雪莹、范藜", arrangerEn: "Xueying Liu, Tiffany Fan" },
   ],
 };
 
