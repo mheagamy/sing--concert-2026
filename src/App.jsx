@@ -1191,7 +1191,7 @@ function SongDetail({ song, onBack, lang }) {
           ) : hasLyrics ? (
             <div style={{ fontFamily: "var(--fb)", fontSize: 14, color: "var(--t2)", lineHeight: 2.2 }}>
               {(() => {
-                const raw = lang === "en" && hasEn ? lyrics.en : lyrics.cn;
+                const raw = lang === "en" && hasEn ? lyrics.en : (hasCn ? lyrics.cn : lyrics.en);
                 const parts = raw.split(/\[SF\]|\[\/SF\]/);
                 return parts.map((part, pi) => {
                   if (pi === 1) {
